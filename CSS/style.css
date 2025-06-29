@@ -475,7 +475,7 @@ section#cycle .container .info .price span {
 
 /* Start about */
 section#about {
-  background-image: url("../Imgs/about-bg.png");
+  background-image: url("../Images/about-bg.png");
   background-size: cover;
   color: white;
   height: 100vh;
