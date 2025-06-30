@@ -24,11 +24,11 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/basem-samir/cycle.git
+   git clone https://github.com/basem-samir/cycle-website.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd cycle
+   cd cycle-website
    ```
 3. Open `index.html` in your browser:
    ```bash
@@ -39,7 +39,7 @@ To run this project locally:
 ## 📁 Project Structure
 
 ```
-cycle/
+cycle-website/
 ├── index.html
 ├── HTML/
 │   ├── about.html
