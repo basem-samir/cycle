@@ -16,7 +16,7 @@ A clean and modern landing page for a fictional bike shop, built using **HTML** 
 
 ## 📸 Preview
 
-https://basem-samir.github.io/cycle-website/
+https://cycle-2025.surge.sh/
 
 ## 🚀 Getting Started
 
