@@ -134,6 +134,10 @@ header div.container nav ul {
   header div.container nav ul {
     display: none;
   }
+  header div.container nav ul.show li {
+    margin: 15px 0;
+    text-align: center;
+  }
 }
 header div.container nav ul li {
   margin: 0 15px;
